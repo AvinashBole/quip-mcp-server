@@ -52,7 +52,7 @@ This MCP server acts as a bridge between Claude and Quip documents. It works by:
          "args": ["path/to/quip-server/build/index.js"],
          "env": {
            "QUIP_ACCESS_TOKEN": "your-quip-access-token",
-           "QUIP_BASE_URL": "https://platform.quip-amazon.com"
+           "QUIP_BASE_URL": "https://platform.quip.com"
          },
          "disabled": false,
          "autoApprove": []
