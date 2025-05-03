@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/avinashbole-quip-mcp-server-badge.png)](https://mseep.ai/app/avinashbole-quip-mcp-server)
+
 # Quip MCP Server
 
 A Model Context Protocol (MCP) server for Quip document operations that enables direct interaction with Quip documents from AI assistants like Claude.
